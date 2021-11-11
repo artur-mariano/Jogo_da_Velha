@@ -1,11 +1,9 @@
 matrizJogo = [
     [11,12,13],
     [21,22,23],
-    [31,32,33]
-]
+    [31,32,33]]
 while True:
     def jogo():
- 
         for i in range(0,9):
             for q in range(0,len(matrizJogo)):
                 print(matrizJogo[q])
@@ -119,5 +117,4 @@ while True:
         matrizJogo = [
         [11,12,13],
         [21,22,23],
-        [31,32,33]
-        ]               
+        [31,32,33]]
